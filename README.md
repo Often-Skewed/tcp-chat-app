@@ -1,5 +1,5 @@
 # TCP Chat App  
-A simple multi-client chat application using Python's socket and threading modules.  
+A simple multi-client chat application using Python socket and threading modules.  
 
 ## Features  
 - Supports multiple clients  
